@@ -1,4 +1,4 @@
-# RandomeWorkoutApp
+# RandomWorkoutApp
 
 This code generates a GUI by the use of the tkinter library of python. This GUI then allows for the user to choose from what body part they would like to excercise, how many
 sets of each workout they would like and how many excercises they would like to do per bodygroup. The excercies are pulled from the exercies.csv file which contains excercies
